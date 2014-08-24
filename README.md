@@ -5,14 +5,14 @@ Repository for getdata-006 class project.
 
 The run_analysis.r program will take the input data sets:
 
--test/subject_test.txt
--test/X_test.txt
--test/Y_test.txt
--train/subject_train.txt
--train/X_train.txt
--train/Y_train.txt
--activity_labels.txt
--features.txt
+- test/subject_test.txt
+- test/X_test.txt
+- test/Y_test.txt
+- train/subject_train.txt
+- train/X_train.txt
+- train/Y_train.txt
+- activity_labels.txt
+- features.txt
 
 ...and generate the appropriate tidy_data.txt file as output.
 
